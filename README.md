@@ -3,7 +3,9 @@
 Veja meu hitórico👇
 
 💖 -Experiência em UI/UX   
+
 ✨ -Estudando HTML e CSS
+
 🙌 -Linguagens futuras: JavaSript, React e ThreeJs
 
 <div align="center">
