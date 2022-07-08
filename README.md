@@ -6,7 +6,7 @@ Veja meu hitórico👇
 
 ✨ -Estudando HTML e CSS
 
-🙌 -Linguagens futuras: JavaSript, React e ThreeJs
+🙌 -Linguagens futuras: JavaScript, React e ThreeJs
 
 <div align="center">
   <a href="https://github.com/CtrlCris">
