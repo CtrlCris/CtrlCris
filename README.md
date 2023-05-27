@@ -4,7 +4,7 @@ Veja meu hitórico👇
 
 💖 -Experiência em UI/UX   
 
-✨ -Estudando HTML, CSS e Java Script
+✨ -Estudando HTML, CSS e JavaScript
 
 🙌 -Linguagens futuras: React e ThreeJs
 
