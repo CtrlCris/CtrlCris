@@ -4,9 +4,9 @@ Veja meu hitórico👇
 
 💖 -Experiência em UI/UX   
 
-✨ -Estudando HTML e CSS
+✨ -Estudando HTML, CSS e Java Script
 
-🙌 -Linguagens futuras: JavaScript, React e ThreeJs
+🙌 -Linguagens futuras: React e ThreeJs
 
 <div align="center">
   <a href="https://github.com/CtrlCris">
