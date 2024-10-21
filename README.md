@@ -1,4 +1,4 @@
-## Oiii, seja bem-vindo ao meu perfil!
+## Oiii, seja bem-vindo(a) ao meu perfil!
 
 Veja meu hitórico👇
 
